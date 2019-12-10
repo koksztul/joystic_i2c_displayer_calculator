@@ -1,2 +1,2 @@
 # joystic_i2c_displayer_calculator
-![alt text](http://url/to/img.png)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
