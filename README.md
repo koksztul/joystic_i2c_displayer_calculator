@@ -1,2 +1,3 @@
 # joystic_i2c_displayer_calculator
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+Video
+[![Watch the video](https://i.imgur.com/UZ9zJnD.png)](https://www.youtube.com/watch?v=duZyUtN4hvs)
